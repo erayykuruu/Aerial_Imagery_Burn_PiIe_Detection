@@ -1,3 +1,7 @@
+# Aerial Imagery Burn Pile Detection
+ Using Transfer Learning with DETR , YoloV6 and Yolov8 models
+
+
 Forest fires damage ecosystems, wildlife, and human life. Burning debris and deadwood is a
 common method of management, but unattended piles can reignite and worsen the damage.
 Therefore, detecting and monitoring these piles is crucial to prevent harm. Over the last few
